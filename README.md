@@ -1,2 +1,2 @@
-# This readme is for 0x00. C - Hello, World.
+# Just started C in Low Level Programming!
 
